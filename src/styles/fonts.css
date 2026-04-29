@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+@theme {
+  --font-heading: "Philosopher", sans-serif;
+  --font-body: "Jost", sans-serif;
+}
+
+:root {
+  --font-heading: 'Philosopher', sans-serif;
+  --font-body: 'Jost', sans-serif;
+}
